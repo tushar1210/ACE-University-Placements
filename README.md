@@ -36,7 +36,8 @@ The only source that you'll need for System Design is [GKCS](https://www.youtube
 
 ---
 ## 🌟Behavioral Questions :
-This is a section where you are going to introduce your 'real' self to the interviewers, and hence there is no fixed source to prepare on this, but for me [this](https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer) worked.
+This is a section where you are going to introduce your 'real' self to the interviewers, and hence there is no fixed source to prepare on this, but for me [this](https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer) worked. Do check out [this](https://theinterviewguys.com/behavioral-interview-questions-and-answers-101/) link for some sample behavioural questions. The pragmatic and structured method most commonly used in behavioural/managerial rounds is the [STAR method](https://www.themuse.com/advice/star-interview-method), so do tailor your answers based on this. <br>
+On an extra note, do some research on the company you apply for. A basic review of Products, News, Culture, etc. will be benificial in the HR round. HR rounds are make or break moments, so do check out this link for structing [situational](https://theinterviewguys.com/situational-interview-questions-and-answers-examples-included/) responses.
 
 ---
 ## 🌟Aptitude Questions :
