@@ -18,15 +18,15 @@ I am doing my undergrad (2021) from VIT University, Vellore in Computer Science,
 ---
 ## 🌟 Theory Sources :
 1. Computer Networks :
-    - [Geeks For Geeks](https://tushars.xyz/data/cn.html)
+    - [Geeks For Geeks](https://tushar.wtf/data/cn.html)
     - [Gate Smashers](https://www.youtube.com/watch?v=JFF2vJaN0Cw&list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_) (Great for understanding subnetting)
     
 2. Operating System :
-    - [Geeks For Geeks](https://tushars.xyz/data/os.html)
+    - [Geeks For Geeks](https://tushar.wtf/data/os.html)
     - [Gate Smashers](https://www.youtube.com/watch?v=bkSWJJZNgf8&list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
 
 3. Database Management System :
-    - [Geeks For Geeks](https://tushars.xyz/data/db.html)
+    - [Geeks For Geeks](https://tushar.wtf/data/db.html)
     - [Gate Smashers](https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
 
    <br> 
